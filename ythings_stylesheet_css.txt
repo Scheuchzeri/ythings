@@ -1,0 +1,5 @@
+/* CSS Stylesheet "YThings" */
+
+h1 {
+ color: #4B0082;
+}
