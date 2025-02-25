@@ -1,0 +1,65 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ <meta name="description" content="Max: The Man Beyond Words">
+
+ <link rel="stylesheet" href="styles.css">
+ <title id="title">Tribute Page Max</title>
+  </head>
+  <body>
+    <header>
+    
+      
+  
+    </header>
+    <main id="main">
+      <h1>Max: A Tribute</h1>
+      <div id=img-div>
+      <figcaption id="img-caption">Few have been able to say anything definitive about. A man (?) that impersonates the elusive: Max.<img id="image" alt="Max: In Ausencia" src="https://img.freepik.com/free-photo/handsome-confident-male-with-trendy-hairstyle-wearing-spectacles-casual-t-shirt_176532-7477.jpg?t=st=1738940905~exp=1738944505~hmac=2e2b978f156dd56631af4e3a2118f2a9806ef7b97282a9f14c81876617dd2c26&w=1800"></label>
+  <p id="tribute-info">"Well, I'd love to say more about him, really. I mean this is a person I've known for years. And to think that now he's just gone - I don't know. But there is essentially nothing I can say with confidence when it comes to Max." - <a id="tribute-link" target="_blank" href="https://philpeople.org/profiles/jonathan-fei">Natafon Jhei</a></p> 
+     </div>
+    </main>
+    <footer>
+    </footer>
+  </body>
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+#image {
+  width: auto;
+  height: auto;
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  
+
+     }
+
+img {
+  display: block;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  margin-top: 
+}
+
+body {
+
+}
+
+h1 {
+  font-family: Courier New sans-serif;
+}
+
+** end of undefined **
+

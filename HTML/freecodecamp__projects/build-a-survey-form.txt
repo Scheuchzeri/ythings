@@ -1,0 +1,76 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>YennoThingsWorkingTitle</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1 id="title">YennoThings</h1>
+  <p id="description">YennoThings Can Save Your Life!</p>
+  
+  <form method="post" id="survey-form" type="survey-form" action="conrad.meissner@t-online.de">
+  <fieldset>
+  <label id="name-label" for="name">Yennoistic Skin <input id="name" type="text" placeholder="Max" required ></input></label>
+  </fieldset>
+  <fieldset>
+  <label id="email-label" for="email">Contact <input id="email" name="email" type="email" placeholder="max@yenno.org" required></input></label>
+  </fieldset>
+  <fieldset>
+<label id="number-label" for="number">Number of visited Congress's <input id="number" type="number" name="bodycount" min="23" max="7777" placeholder="23" />
+  </fieldset>
+<label for="dropdown">Title <select id="dropdown">
+    <option value="">Dr.</option>
+    <option value="1">Dr. Phil.</option>
+    <option value="2">Dr. Phal. Max.</option>
+    <option value="3">Dr. Phal. Max. Phil. Med.</option>
+    <option value="4">Jhulk</option>
+  </select>
+  <fieldset>
+  <legend>What is your political affiliation? (Input Required)</legend>
+    <label for="binary"><input id="binary" type="radio" name="ideology" class="inline" value="binary"> Binary
+    </input>
+    <label for="non-binary"><input id="non-binary" type="radio" name="ideology" class="inline" value="non-binary"> Non-Binary</input>
+</fieldset>
+<fieldset>
+   <legend>Provide Field of Expertise</legend>
+<label for="klassisch"><input id="klassisch" type="checkbox" value="klassisch" />Klassischer Zennoismus</label>
+<label for="divergenz"><input id="divergenz" type="checkbox" value="klassisch">Yennoistische Divergenz </input></label>
+<label for="pissoistisch"><input id="pissoistisch" type="checkbox" value="pissoistisch">PKW-Aktion</input></label>
+<label for="Akquirismus"><input id="Akquirismus" type="checkbox" value="Akquirismus">Akquirismus</input></label>
+ </fieldset>
+
+   <label for="haiku">For Examination Completion please compose a SPONTANEOUS Haiku, which, while delineating your personal understanding of 'Yenno' roughly, yet concisely, also does justice to the theoretical depth of some of its more marginal currents:</label>
+   <textarea id="haiku" name="haiku" rows="3" col="30" width="100%" placeholder="&#10IN THE DIXIE OF A METRO&#10&#10die Gegenwart&#10ist nur ein Punkt&#10der Augenblick&#10ist hier&#10zwischen&#10Pisse &&#10Scheisse &&#10ekeligen&#10Chemikalien"></textarea>
+<input id="submit" type="submit" value="submit"></input>
+  </section>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+h1 {
+  color: purple;
+  text-align: center;
+
+}
+
+label {
+  display: block;
+}
+
+.inline {
+  margin-bottom: 2%;
+}
+
+textarea {
+  width: 100%;
+  height: 195px;
+}
+
+** end of undefined **
+

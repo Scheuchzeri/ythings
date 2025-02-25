@@ -1,0 +1,127 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Jhatoa Neins Enyzklopädie der Zirkeläußeren Phänomene">
+<link rel="stylesheet" href="styles.css">
+<title>EdZP</title>
+  </head>
+  <body>
+    <main id="main-doc">
+
+      <nav id="navbar">
+        <header for="navbar">EdZP 
+        <div class="navbar-sub-divider"></div>
+        <a class="nav-link" href="#Bler_Blow_Furore">Bler Blow Furore</a>
+          <div class="navbar-sub-divider"></div>
+        <a class="nav-link" href="#Plagiada_Inventada">Plagiada Inventada</a>
+        <div class="navbar-sub-divider"></div>
+        <a class="nav-link" href="#Heidegger">Heidegger</a>
+        <div class="navbar-sub-divider"></div>
+        <a class="nav-link" href="#Max">Max</a>
+        <div class="navbar-sub-divider"></div>
+        <a class="nav-link" href="#Galleriegang">Galleriegang</a>
+        <div class="navbar-sub-divider"></div>
+        </header>
+      </nav>
+      <div id="navbar-divider"></div>
+
+      <section id="Bler_Blow_Furore" class="main-section">
+        <header for="Bler_Blow_Furore">Bler Blow Furore</header>
+          <p>Im Wesentlichen geht es hierbei wohl darum, dass in jedem <code>In-Etwas-Sein</code> gleichzeitig ein <code>In-Etwas-Nicht-Sein</code> - oder um es mit Ceissrands Gegenbegriff zu sagen, <code>Nicht-In-Etwas-Sein</code> - mitbegriffen ist. </p>
+
+         <p>Zur Kontroverse zwischen Nein und Ceissrand um die Frage, welcher Begriff zuerst kam (der des "<code>In-Etwas-Nicht-Sein</code>" oder der des "<code>Nicht-In-Etwas-Sein</code>", s. <code>Das kann doch einfach nicht sein</code>. Wie man der Polemik ausweichen kann, um endlich wieder vernünftig mit einander zu sprechen. Sabine Würgents, Ja-Verlag, Nürgenstadt, 2009.</p>
+         <p></p>
+        </section>
+
+      <section id="Plagiada_Inventada" class="main-section">
+        <header for="Plagiada_Inventada">Plagiada Inventada</header>
+
+        <p>Die Fähigkeit, derart gekonnt abzuschreiben, dass das Geschriebene für eine originelle Idee gehalten wird. Seit dem antiken Griechenland auch bekannt als "Philosophie".</p>
+
+        <p></p>
+      </section>
+
+      <section id="Heidegger" class="main-section">
+        <header for="Heidegger">Heidegger</header>
+          <p>Besonders begabter Schwätzer, oder "Philosoph".</p>
+        </section>
+         
+      <section id="Max" class="main-section">
+        <header for="Max">Max</header>
+        <p>Einer der wichtigsten Yennoisten. Leider ist wenig Eindeutiges über ihn bekannt.</p>
+      </section>
+
+      <section id="Galleriegang" class="main-section">
+        <header for="Galleriegang">Galleriegang</header>
+      <p>Teil des "Campus", eines der wichtigsten yennoistischen Wissenszentren. Im Galleriegang können die Portraits einschlägiger Yennoist:Innen begutachtet werden.</p>
+      <p>
+        <label for="beispiele">
+          Beispiele:<ul id="beispiele">
+            <li>Jhatoa Nein</li>
+            <li>Andrias Scheuchzeri</li>
+            <li>Vaal-Yuñ</li>
+            <li>Sen Ho</li>
+            <li>Max</li>
+          </ul></label>
+      </p>
+           </section>
+
+      </main>
+    </body>
+
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+section > header {
+  font-weight: bold;
+  
+}
+
+#navbar-divider {
+  height: 30px;
+  width: 30px;
+}
+
+a.nav-link {
+  color: #fff;
+  background-color: #000;
+
+}
+
+a.nav-link:hover {
+
+color: #eddded;
+}
+
+section.main-section > header {
+
+color: #800080
+
+}
+
+div.navbar-sub-divider {
+
+height: 10px;
+width: 10px;
+
+}
+
+@media (max-width: 768px) {
+
+#navbar {
+  position: left;
+}
+
+}
+
+** end of undefined **
+

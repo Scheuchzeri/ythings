@@ -1,0 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 0.25rem;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50px 50px;
+}
+
+.grid-container-inner {
+display: grid;
+grid-template-columns: 1.25rem;
+
+}
