@@ -1,0 +1,65 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    width: 100%;
+    height: auto;
+}
+
+header {
+    margin-top: 2.5rem;
+    margin-bottom: 5rem;
+}
+
+
+
+.grid-container {
+    
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 0.5fr);
+    column-gap: 1rem;
+    row-gap: 2em;
+   
+    
+}
+
+p {
+    margin: 0;
+    padding: none;
+    text-align: center;
+    z-index: 100;
+    color: black;
+    
+}
+
+div {
+    margin: none;
+}
+
+
+
+
+/* rgb(0, 148, 64) green
+
+rgb(48, 38, 129) blue
+
+rgb(255, 203, 0) yellow
+
+#blue-circle {
+    position: fixed;
+    width: 33%;
+    height: 33%;
+    background-color: rgb(48, 38, 129);
+    top: 45%;
+    bottom: 25%;
+    right: 25%;
+    left: 25%;
+    border-radius: 
+    z-index: 0;
+}
+
+
+
+*/
+
+
